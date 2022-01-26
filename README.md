@@ -1,1 +1,1 @@
-# ssh_helper
+This script will automate the ssh with port passthrough process used to access Virtual Machines on the VM farm. It also has an option to connect to the VM with VNC Viewer if it is installed. It can be customized for different terminal emulators (but are untested)
